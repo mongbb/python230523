@@ -22,3 +22,4 @@ lst = f.readlines()
 print(lst)
 
 f.close()
+
